@@ -39,6 +39,18 @@ git log --topo-order --all --graph --date=local --pretty=format:'%C(green)%h%C(r
 git lg instead of git log <br/>
 
 Here's the free code snippet, and what your .gitconfig file would look like when you add it to your global git config
-https://codingforeverybody.com/snippets/git-lg <br/>
+https://codingforeverybody.com/snippets/git-lg <br/> <br/>
 
+# Glossary
+**git:** anopensource,distributedversion-controlsystem <br/>
+**GitHub:** a platform for hosting and collaborating on Git repositories <br/>
+**commit:** a Git object, a snapshot of your entire repository compressed into a SHA <br/>
+**branch:** a lightweight movable pointer to a commit <br/>
+**clone:** a local version of a repository, including all commits and branches <br/>
+**remote:** a common repository on GitHub that all team member use to exchange their changes <br/>
+**fork:** a copy of a repository on GitHub owned by a different user <br/>
+**pull** request:aplacetocompareanddiscussthedifferencesintroducedonabranchwithreviews,comments,integrated tests, and more<br/>
+**HEAD:** representing your current working directory, the HEAD pointer can be moved to different branches, tags, or commits when using git checkout<br/>
 
+# Markdown Cheatsheet
+https://github.com/tchapi/markdown-cheatsheet
