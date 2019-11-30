@@ -1,7 +1,7 @@
 # front-end-tech
 Here i put all front-end related technology code and my practice stuff<br/>
 
-# Some Important git tip
+# Some Important git tips
 
 or create a new repository on the command line <br/>
 
