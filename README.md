@@ -34,7 +34,7 @@ git push -u origin master <br/>
 Research SSH keys for Git authentication <br/>
 
 
-##Cool git command run your project:##  <br/>
+### Cool git command run your project:  <br/>
 **git log --topo-order --all --graph --date=local --pretty=format:'%C(green)%h%C(reset) %><(55,trunc)%s%C(red)%d%C(reset) %C(blue)[%an]%C(reset) %C(yellow)%ad%C(reset)%n'** - to show colorful git history <br/>
 
 **git lg** instead of **git log** - for more beautifully view <br/>
