@@ -20,23 +20,24 @@ git push -u origin master <br/>
 
 —————--------- <br/> 
 # My Git knoledge till yet: 
-git —version - for check git on your local <br/>
-git clone url.git  - copy your code <br/>
-git status - show the status <br/>
-git diff filename <br/>
-git add filename - ready for stage <br/>
-git commit -m “commiit message” - for commit to local <br/>
-git push origin master - for push changes to github website <br/>
-git checkout filename or commitcode - revert the changes <br/>
-git pull origin master - pull code from git to local <br/>
-GitLab - for private repo it's free <br/>
+**git** — version - for check git on your local <br/>
+**git clone url.git**  - copy your code <br/>
+**git status** - show the status <br/>
+**git diff filename** - show the changes<br/>
+**git add filename** - ready for stage <br/>
+**git commit -m “commiit message”** - for commit to local <br/>
+**git push origin master** - for push changes to github website <br/>
+**git checkout filename or commitcode** - revert the changes <br/>
+**git checkout master then git pull origin master** - reattach the detached HEAD
+**git pull origin master** - pull code from git to local <br/>
+**GitLab** - for private repo it's free <br/>
 Research SSH keys for Git authentication <br/>
 
 
 #Cool git command run your project:
 git log --topo-order --all --graph --date=local --pretty=format:'%C(green)%h%C(reset) %><(55,trunc)%s%C(red)%d%C(reset) %C(blue)[%an]%C(reset) %C(yellow)%ad%C(reset)%n' <br/>
 
-git lg instead of git log <br/>
+**git lg** instead of **git log** - for more beautifully view <br/>
 
 Here's the free code snippet, and what your .gitconfig file would look like when you add it to your global git config
 https://codingforeverybody.com/snippets/git-lg <br/> <br/>
