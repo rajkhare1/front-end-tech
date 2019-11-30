@@ -19,6 +19,7 @@ git remote add origin https://github.com/rajkhare1/front-end-tech.git <br/>
 git push -u origin master <br/>
 
 —————--------- <br/> 
+# My Git knoledge till yet: 
 git —version - for check git on your local <br/>
 git clone url.git  - copy your code <br/>
 git status - show the status <br/>
@@ -27,6 +28,9 @@ git add filename - ready for stage <br/>
 git commit -m “commiit message” - for commit to local <br/>
 git push origin master - for push changes to github website <br/>
 git checkout filename or commitcode - revert the changes <br/>
+git pull origin master - pull code from git to local <br/>
+GitLab - for private repo it's free <br/>
+Research SSH keys for Git authentication <br/>
 
 
 #Cool git command run your project:
