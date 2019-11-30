@@ -1,0 +1,75 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #4d2d06;
+	font-family: Georgia, Times, serif;
+	color: #fff;
+	text-align: center;
+	font-size: 50px;
+}
+
+#monkey {
+	background-color: #fff;
+	color: #4d2d06;
+	font-family: Verdana, Arial, sans-serif;
+}
+
+#donkey {
+	background-color: green;
+	font-family: Monaco, monospace;
+}
+
+.primary-box {
+	background-color: #222;
+	color: #fff;
+	font-size: 24px;
+	margin: 0 0 10px;
+	padding: 10px;
+}
+
+.secondary-box {
+	background-color: #fff;
+	color: #222;
+	
+}
+
+.inside-box {
+	margin: 20px 0;
+	padding: 10px;
+	background-color: #94efff;
+	color: #555;
+}
+
+/*Descendent Selectors*/
+
+.primary-box h2 {
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+.primary-box p em {
+	color: #32b0ff;
+}
+
+.secondary-box em {
+	color: #fc3fff;
+}
+
+.secondary-box p {
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+/* Grouping Selectors */
+
+.primary-box, .secondary-box {
+	font-size: 24px;
+	margin: 0 0 10px;
+	padding: 10px;
+}
+
+.inside-box h3, .inside-box p {
+	font-size: 20px;
+}
+
