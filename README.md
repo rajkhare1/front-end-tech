@@ -28,6 +28,7 @@ git push -u origin master <br/>
 **git commit -m “commiit message”** - for commit to local <br/>
 **git push origin master** - for push changes to github website <br/>
 **git checkout filename or commitcode** - revert the changes <br/>
+**git checkout branchname** - for switching the branch <br/>
 **git checkout master then git pull origin master** - reattach the detached HEAD
 **git pull origin master** - pull code from git to local <br/>
 **GitLab** - for private repo it's free <br/>
